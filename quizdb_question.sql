@@ -1,0 +1,10 @@
+INSERT INTO quizdb.question (question, op1, op2, op3, op4, ans, question_category) VALUES ('Which of these is not an animal?', 'Dog', 'Cat', 'Peacock', 'Mouse', 'Peacock', 1);
+INSERT INTO quizdb.question (question, op1, op2, op3, op4, ans, question_category) VALUES ('Who is the prime minister of India', 'Pranab Mukerjee', 'Trump', 'Obama', 'Modi', 'Modi', 1);
+INSERT INTO quizdb.question (question, op1, op2, op3, op4, ans, question_category) VALUES ('"Winter is Coming"', 'Starks', 'Lannisters', 'Baratheons', 'Targaryens', 'Starks', 1);
+INSERT INTO quizdb.question (question, op1, op2, op3, op4, ans, question_category) VALUES ('Who beheaded Ned Stark?', 'Robb', 'Illyn Payne', 'Pycelle', 'Arya', 'Illyn Payne', 1);
+INSERT INTO quizdb.question (question, op1, op2, op3, op4, ans, question_category) VALUES ('Direwolf of Bran?', 'Shaggydog', 'Grey Wind', 'Summer', 'Ghost', 'Summer', 1);
+INSERT INTO quizdb.question (question, op1, op2, op3, op4, ans, question_category) VALUES ('Who stabs Jon Snow in the End?', 'Pyp', 'Dolorus Edd', 'Sam', 'Olly', 'Olly', 1);
+INSERT INTO quizdb.question (question, op1, op2, op3, op4, ans, question_category) VALUES ('The One True King?', 'Stannis', 'Robert', 'Shireen', 'Joffrey', 'Stannis', 1);
+INSERT INTO quizdb.question (question, op1, op2, op3, op4, ans, question_category) VALUES ('"We do not sow"', 'Tullys', 'Greyjoys', 'Tyrell', 'Reed', 'Greyjoys', 1);
+INSERT INTO quizdb.question (question, op1, op2, op3, op4, ans, question_category) VALUES ('Father of Rhaegar?', 'Aegon', 'Aemon', 'Aerys', 'Aerys II', 'Aerys II', 1);
+INSERT INTO quizdb.question (question, op1, op2, op3, op4, ans, question_category) VALUES ('Who kills Randyll Tarly', 'Tyrion', 'Dany', 'Jon', 'Sam', 'Dany', 1);
